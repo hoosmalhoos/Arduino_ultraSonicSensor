@@ -1,3 +1,4 @@
+// pins used
 int pin2=2;
 int  pin3=3;
 int  pin4=4;
@@ -6,7 +7,7 @@ int TriqPin=9;
 int EchoPin=10;
 long duration;
 int distance;
-
+//seting up pins
 void setup() {
 pinMode(pin2,OUTPUT);
 pinMode(pin3,OUTPUT);
@@ -22,17 +23,19 @@ void loop() {
   //RedLed();
   //YellowLed();
   //GreenLed();
+  // 
   digitalWrite(TriqPin,LOW);
   delayMicroseconds(2);
   digitalWrite(TriqPin,HIGH);
   delayMicroseconds(10);
   digitalWrite(TriqPin,LOW);
-
+  // distance measurment for object closeness detection
   duration= pulseIn(EchoPin,HIGH);
   distance= duration*0.034/2;
   Serial.print("distance :");
   Serial.println(distance);
-
+  
+ // if an object close to the sensor in 80 cm ,then it plinks and beeps
   if(distance<=80){
     
    digitalWrite(pin2,HIGH);
