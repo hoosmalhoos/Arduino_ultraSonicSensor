@@ -52,8 +52,9 @@ Below is the standard wiring setup required to interface the ultrasonic sensor w
 
 .
 
+<img width="400" height="711" alt="Demo_sensor_1280p-compressed" src="https://github.com/user-attachments/assets/923432d3-e3ed-468d-a53a-2dcbd05a4346" />
 
-<img width="400" height="711" alt="Demo_sensor_1280p-compressed" src="https://github.com/user-attachments/assets/56dcd567-6ab5-48e5-a53d-c5c3e9ff8d1f" /
+
 ---
 
 ## 💡 Key Features & Concepts Demonstrated
