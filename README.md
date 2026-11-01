@@ -39,7 +39,7 @@ $$
 
 ---
 
-## 🔌 Hardware Connections & Pinout
+## 🔌 Hardware Connections >Pinout
 
 Below is the standard wiring setup required to interface the ultrasonic sensor with an Arduino:
 
@@ -52,7 +52,8 @@ Below is the standard wiring setup required to interface the ultrasonic sensor w
 
 .
 
-<img src="SnapVid.Net_wRjvF-L8_vSfGjzc_1280p.gif" width="600" alt="Project Demo">
+
+<img width="400" height="711" alt="Demo_sensor_1280p-compressed" src="https://github.com/user-attachments/assets/56dcd567-6ab5-48e5-a53d-c5c3e9ff8d1f" /
 ---
 
 ## 💡 Key Features & Concepts Demonstrated
