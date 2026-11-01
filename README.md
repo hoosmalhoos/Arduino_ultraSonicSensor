@@ -50,7 +50,7 @@ Below is the standard wiring setup required to interface the ultrasonic sensor w
 | **Echo** | Digital Pin | Receives the signal when sound returns |
 | **GND** | GND | Ground Reference |
 ![Uploading SnapVid.Net_wRjvF-L8_vSfGjzc_1280p.gif…]()
-
+<img src="SnapVid.Net_wRjvF-L8_vSfGjzc_1280p.gif" width="600" alt="Project Demo">
 ---
 
 ## 💡 Key Features & Concepts Demonstrated
