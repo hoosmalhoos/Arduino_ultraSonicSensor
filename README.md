@@ -49,6 +49,7 @@ Below is the standard wiring setup required to interface the ultrasonic sensor w
 | **Trig (Trigger)** | Digital Pin | Sends the signal to emit sound waves |
 | **Echo** | Digital Pin | Receives the signal when sound returns |
 | **GND** | GND | Ground Reference |
+![Uploading SnapVid.Net_wRjvF-L8_vSfGjzc_1280p.gif…]()
 
 ---
 
